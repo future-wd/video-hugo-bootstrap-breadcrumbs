@@ -1,6 +1,8 @@
 # Tutorial - Bootstrap breadcrumbs for Hugo
 
-Watch the video at <https://youtu.be/fx4sXbRlpBo>
+How to implement Bootstrap 5 breadcrumbs with Hugo
+
+Watch the video at <https://youtu.be/70rb6nE0SPI>
 
 [Watch my full length skillshare courses here](https://skl.sh/3rsfq4y). You get 1 month free, to watch my courses using my referral link.
 
